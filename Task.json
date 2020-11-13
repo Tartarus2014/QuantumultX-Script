@@ -1,6 +1,6 @@
 {
     "name": "QX Scripts Gallery",
-    "description": "QX Task Gallery by Peng-YM",
+    "description": "QX Task Gallery by Tartarus2014",
     "task": [
         "5 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/idaily/idaily.js, tag=iDaily每日环球视野",
         "30 7-22 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/appstore/AppMonitor.js, tag=App价格监控",
