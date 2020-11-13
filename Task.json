@@ -1,7 +1,7 @@
 {
     "name": "QX Scripts Gallery",
     "description": "QX Task Gallery by Peng-YM",
-    "task": [",
+    "task": [
         "5 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/idaily/idaily.js, tag=iDaily每日环球视野",
         "30 7-22 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/appstore/AppMonitor.js, tag=App价格监控",
         "30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hotsearch/hot.js, tag=热门监控",
