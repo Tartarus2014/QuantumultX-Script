@@ -1,6 +1,6 @@
 {
   "name": "JD task gallery",
-  "description": "see you latter",
+  "description": "see you later",
     "task":[
         "5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/JD_DailyBonus.png",
         "5 6-18/6 * * * https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_fruit.js, tag=东东农场 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_fruit.png",
